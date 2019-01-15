@@ -14,4 +14,8 @@ After a short overview of the project, we go over the concepts
 we have implemented or used in this perspective and then we
 show our results and present our conclusion.
 
-![Bridge](https://github.com/berkantdeniz/homoRANSAC/tree/master/imgs/bridge.png)
+
+![Bridge](../master/imgs/bridge.png)
+
+
+![Matched Features](../master/imgs/features.png)
